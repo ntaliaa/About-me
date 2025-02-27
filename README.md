@@ -1,4 +1,4 @@
-# Hi there, I'm Kate! 👋
+# Hi there, I'm Katerina! 👋
 Welcome to my GitHub profile! I'm an Electrical and Computer Engineering student, passionate about software development and machine learning.
 ## 🚀 About Me
 - 🎓 Electrical and Computer Engineering student at University of Thessaly.
